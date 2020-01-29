@@ -14,7 +14,14 @@
     "type": "git",
     "url": "git+https://github.com/dawnimpulse/tilde.git"
   },
-  "keywords": [],
+  "keywords": [
+    "wavy",
+    "~",
+    "require",
+    "import",
+    "symlink",
+    "root"
+  ],
   "author": "DawnImpulse",
   "license": "ISC",
   "bugs": {
